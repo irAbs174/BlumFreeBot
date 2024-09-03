@@ -1,0 +1,2 @@
+(https://chromewebstore.google.com/detail/ignore-x-frame-headers/gleekbfjekiniecknbkamfmkohkpodhe)(https://chromewebstore.google.com/detail/violentmonkey/jinjaccalgkegednnccohejagnlnfdag?hl=be)
+(https://github.com/mudachyo/Blum/raw/main/blum-autoclicker.user.js)
